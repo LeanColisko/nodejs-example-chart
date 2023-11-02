@@ -11,4 +11,14 @@ entries:
     urls:
     - https://github.com/LeanColisko/nodejs-example-chart/releases/download/nodejs-example-chart-1/nodejs-example-chart-1.tgz
     version: "1"
-generated: "2023-10-20T23:10:49.255866228Z"
+  - apiVersion: v2
+    appVersion: 20231018205529-build7
+    created: "2023-11-02T00:39:43.410461387Z"
+    description: Este es nuestro template de la clase de EducacionIT
+    digest: 9a7a0c7699f9e8758c3707ab444d48a3ebba43f5681c2ec25ebff4e6346c3c75
+    name: nodejs-example-chart
+    type: application
+    urls:
+    - https://github.com/LeanColisko/nodejs-example-chart/releases/download/nodejs-example-chart-0.1.8/nodejs-example-chart-0.1.8.tgz
+    version: 0.1.8
+generated: "2023-11-02T00:39:43.410480388Z"
